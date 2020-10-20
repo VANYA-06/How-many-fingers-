@@ -1,0 +1,24 @@
+body{
+    background-color: brown;
+}
+
+.heading{
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.options{
+    font-size: 30px;
+    margin-left: 850px;
+
+}
+
+#guess{
+    background-color: teal;
+    color: white;
+    font-size: 30px;
+    margin-left: 30px;
+    
+}
